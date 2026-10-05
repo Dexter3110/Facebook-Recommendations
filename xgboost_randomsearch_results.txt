@@ -1,0 +1,30 @@
+============================================================
+XGBOOST RANDOMIZED SEARCH RESULTS
+============================================================
+
+Best Parameters: {'colsample_bytree': 0.8363571772752967, 'learning_rate': 0.20649366493426188, 'max_depth': 5, 'n_estimators': 395, 'reg_alpha': 0.512093058299281, 'reg_lambda': 0.9529915503958759, 'subsample': 0.8580691161637799}
+
+Cross-Validation Results:
+Best CV F1 Score: 0.9840
+Number of iterations: 100
+
+Final Model Performance:
+Train F1 Score: 0.9998
+Test F1 Score: 0.9072
+Train Precision: 0.9999
+Test Precision: 0.9864
+Train Recall: 0.9997
+Test Recall: 0.8398
+Test AUC: 0.9487
+
+Top 10 Features:
+inter_followers: 0.3167
+follows_back: 0.2859
+cosine_followees: 0.0948
+jaccard_followees: 0.0842
+adar_index: 0.0581
+inter_followees: 0.0388
+weight_f1: 0.0244
+weight_in: 0.0187
+num_followers_s: 0.0147
+same_comp: 0.0102

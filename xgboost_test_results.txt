@@ -1,0 +1,10 @@
+XGBoost Model Test Results
+==================================================
+model_name: XGBoost RandomizedSearchCV
+test_f1_score: 0.9072138172845919
+test_precision: 0.9863980797289029
+test_recall: 0.8397980445584228
+test_auc: 0.9487230417013622
+successful_node_tests: 5
+total_node_tests: 5
+recommendation_accuracy: 100.0

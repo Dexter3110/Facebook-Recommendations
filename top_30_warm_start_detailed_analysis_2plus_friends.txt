@@ -1,0 +1,39 @@
+DETAILED ANALYSIS OF TOP 30 WARM START NODES (2+ FRIENDS)
+============================================================
+
+Criteria: Nodes with >= 2 potential friends
+Total nodes analyzed: 30
+Total candidates: 101
+Total actual friends: 100
+Overall friend ratio: 0.990
+
+FRIEND COUNT DISTRIBUTION:
+2-5 friends: 29 nodes
+6-10 friends: 1 nodes
+11+ friends: 0 nodes
+
+TOP 10 BY ACTUAL FRIENDS:
+ node_id  total_candidates  actual_friends  friend_ratio
+ 1492489                 9               9           1.0
+  141489                 5               5           1.0
+ 1340251                 5               4           0.8
+ 1813351                 4               4           1.0
+ 1445651                 3               3           1.0
+  315994                 3               3           1.0
+ 1824560                 3               3           1.0
+ 1132063                 3               3           1.0
+  452884                 3               3           1.0
+ 1526855                 3               3           1.0
+
+TOP 10 BY FRIEND RATIO:
+ node_id  total_candidates  actual_friends  friend_ratio
+ 1492489                 9               9           1.0
+  141489                 5               5           1.0
+ 1813351                 4               4           1.0
+ 1445651                 3               3           1.0
+  315994                 3               3           1.0
+ 1824560                 3               3           1.0
+ 1132063                 3               3           1.0
+  452884                 3               3           1.0
+ 1526855                 3               3           1.0
+  655625                 3               3           1.0

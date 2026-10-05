@@ -1,0 +1,23 @@
+# ── Streamlit secrets (NEVER commit) ────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Python cache & virtual environments ─────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+
+# ── Jupyter checkpoints ──────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Large binary data & model files ─────────────────────────────────────────
+*.pkl
+*.pkl.gz
+*.h5
+*.p
+*.csv
+*.csv.gz
+*.mp4
+*.bak

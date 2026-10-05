@@ -1,0 +1,4 @@
+Best Parameters: {'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 150}
+Best CV F1 Score: 0.9735
+Train F1 Score: 0.9858
+Test F1 Score: 0.9299

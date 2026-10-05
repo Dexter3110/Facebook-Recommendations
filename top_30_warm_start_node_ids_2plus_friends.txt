@@ -1,0 +1,36 @@
+Top 30 Warm Start Node IDs with 2+ Potential Friends
+============================================================
+
+ 1. Node 1492489: 9 potential friends
+ 2. Node 141489: 5 potential friends
+ 3. Node 1340251: 5 potential friends
+ 4. Node 1813351: 4 potential friends
+ 5. Node 1445651: 3 potential friends
+ 6. Node 315994: 3 potential friends
+ 7. Node 1824560: 3 potential friends
+ 8. Node 1132063: 3 potential friends
+ 9. Node 452884: 3 potential friends
+10. Node 1526855: 3 potential friends
+11. Node 655625: 3 potential friends
+12. Node 913888: 3 potential friends
+13. Node 1197666: 3 potential friends
+14. Node 1559787: 3 potential friends
+15. Node 1718215: 3 potential friends
+16. Node 1265773: 3 potential friends
+17. Node 616655: 3 potential friends
+18. Node 1586932: 3 potential friends
+19. Node 619091: 3 potential friends
+20. Node 1094233: 3 potential friends
+21. Node 1825785: 3 potential friends
+22. Node 479622: 3 potential friends
+23. Node 744391: 3 potential friends
+24. Node 1491709: 3 potential friends
+25. Node 808751: 3 potential friends
+26. Node 1303486: 3 potential friends
+27. Node 171139: 3 potential friends
+28. Node 61006: 3 potential friends
+29. Node 1709941: 3 potential friends
+30. Node 892177: 3 potential friends
+
+Python list format:
+[1492489, 141489, 1340251, 1813351, 1445651, 315994, 1824560, 1132063, 452884, 1526855, 655625, 913888, 1197666, 1559787, 1718215, 1265773, 616655, 1586932, 619091, 1094233, 1825785, 479622, 744391, 1491709, 808751, 1303486, 171139, 61006, 1709941, 892177]
